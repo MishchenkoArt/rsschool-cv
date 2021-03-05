@@ -12,7 +12,7 @@ I want to learn and know more programming technologies and be able to use it.
 
 ### Skills
 * HTML, CSS, JavaScript(basic)
-* Photoshop, Illustrator
+* Photoshop, Illustrator, Articulate Storyline
 * Bootstrap, Flexbox, Sass, Scss
 
 
